@@ -1,0 +1,27 @@
+ [
+    {
+      "name":"Trang chủ",
+      "to":"/",
+      "exact":true
+    },
+    {
+      "name":"Giới thiệu",
+      "to":"/about",
+      "exact":false
+    },
+    {
+      "name":"Liện hệ",
+      "to":"/contact",
+      "exact":false
+    },
+    {
+      "name":"Sản Phẩm",
+      "to":"/sanPham",
+      "exact":false
+    },
+    {
+      "name":"Đăng nhập",
+      "to":"/login",
+      "exact":false
+    }
+  ] 
